@@ -50,7 +50,7 @@ This project uses only **built-in Python functions** - perfect for beginners! �
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/JuanPabloDesigner/numberSum.git
+git clone https://github.com/juansilvadesign/numberSum.git
 cd numberSum
 ```
 
@@ -164,7 +164,7 @@ To extend this project, you could:
 **Created by:** Juan Pablo  
 **Purpose:** Personal coding practice and skill development  
 **Date:** January 2023  
-**Repository:** [numberSum](https://github.com/JuanPabloDesigner/numberSum)
+**Repository:** [numberSum](https://github.com/juansilvadesign/numberSum)
 
 ---
 
